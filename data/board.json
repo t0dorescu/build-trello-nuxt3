@@ -1,0 +1,45 @@
+{
+    "name": "task-board",
+    "columns": [
+        {
+            "name": "todo",
+            "tasks": [
+                {
+                    "id": "d9d41abf-b3e0-4f34-a518-20c38a9bc6c7",
+                    "name": "Create mock data",
+                    "description": "Generate mock data based on JSON structure"
+                },
+                {
+                    "id": "f0d68128-aa07-448a-ac48-261532fef2d4",
+                    "name": "Implement task board UI",
+                    "description": "Design and code the user interface for the task board"
+                }
+            ]
+        },
+        {
+            "name": "in-progress",
+            "tasks": [
+                {
+                    "id": "7f8c4094-15c2-458c-ac7c-3cd91aca20f7",
+                    "name": "Integrate backend functionality",
+                    "description": "Connect the task board UI with backend APIs"
+                }
+            ]
+        },
+        {
+            "name": "done",
+            "tasks": [
+                {
+                    "id": "46470727-bc7e-4900-bb92-7fc16448f7c6",
+                    "name": "Test and debug application",
+                    "description": "Perform thorough testing and debug any issues"
+                },
+                {
+                    "id": "741c6a00-c73a-401b-afac-35b448c06129",
+                    "name": "Deploy to production",
+                    "description": "Deploy the application to production environment"
+                }
+            ]
+        }
+    ]
+}
